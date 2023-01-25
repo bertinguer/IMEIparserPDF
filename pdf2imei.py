@@ -28,7 +28,7 @@ def buscar_imeis(archivo):
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print('Uso: python script.py archivo.pdf')
+        print('Uso: python pdf2imei.py archivo.pdf')
         sys.exit(1)
 
     archivo = sys.argv[1]
