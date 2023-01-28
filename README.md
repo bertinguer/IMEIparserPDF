@@ -9,7 +9,7 @@ Este script busca en un archivo PDF los números IMEI que se encuentren en el mi
 - PyPDF2
 
 ## Uso
-`python3 script.py fichero.pdf`
+`python3 pdf2imei.py fichero.pdf`
 
 ## Notas
 - El script busca los IMEI en todas las páginas del archivo PDF
